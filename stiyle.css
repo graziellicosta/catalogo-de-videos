@@ -1,6 +1,6 @@
 body {
 color: white;
-background: (black);
+background: (rgb(0, 0, 0));
 }
 
 header {
@@ -12,7 +12,7 @@ color: rgb(85, 2, 17);
 }
 
 .chamada {
-background: rgb(233, 0, 78);
+background: (black);
 padding-bottom: 80px;
 padding-top: 80px;
 display: flex;
